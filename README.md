@@ -99,14 +99,14 @@ Newton’s laws explain nearly everything we experience in daily life—whether 
 
 <!--START_SECTION:activity-->
 
-    * [🎬 មេរៀន ទ្រឹស្តីស៊ីនេទិចនៃឧស្ម័ន បង្រៀនដោយលោកគ្រូ យិន អ៊ាង (MoEYS Official)](https://youtube.com/playlist?list=PL2G_O4s8LpX-srF-aHX8k2O_Dg3LqQ9jm)
-    * [🎬 មេរៀន ទ្រឹស្តីស៊ីនេទិចនៃឧស្ម័ន បង្រៀនដោយលោកគ្រូហាក់ កុសល Full Playlist](https://www.youtube.com/playlist?list=PLH3117ApWampfSrIezrqrQY7Tz2exIqns) 
+    * [🎬 NGS-Part-1](https://www.youtube.com/watch?v=RUvVr5pjFdQ&list=PLJaM0qi-Pbjv6Ya3RKZpb2W-z1JvCTWmO&index=4) ; [🎬 NGS - End](https://www.youtube.com/watch?v=S3gyrsKXzQ4&list=PLJaM0qi-Pbjv6Ya3RKZpb2W-z1JvCTWmO&index=5)
+    * [🎬 Dave Explain - 1](https://www.youtube.com/watch?v=1XSyyjcEHo0) ;  [🎬 Dave Explain - 2](https://www.youtube.com/watch?v=xzA6IBWUEDE) ;  [🎬 Dave Explain - 3](https://www.youtube.com/watch?v=y61_VPKH2B4) 
 
 <!--END_SECTION:activity-->
 </details> 
 
 <details>
-  <summary>មេរៀនសង្ខេប - Mindmap - លំហាត់អនុវត្តន៍:</summary>
+  <summary>4.2 មេរៀនសង្ខេប - Mindmap - លំហាត់អនុវត្តន៍:</summary>
   <br/>
 
 <!--START_SECTION:activity-->
