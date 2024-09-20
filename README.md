@@ -1,7 +1,11 @@
 # Physics_Grade_10
 
+`ស្ថិតិអ្នកចូលមើល(Total Visitors)`
+<br>
 
+![](https://komarev.com/ghpvc/?username=Physics_Grade_10&style=flat&color=blueviolet)
 
+---
 ## មេរៀន ច្បាប់ចលនារបស់ញូតុន
 **Topics Covered:** `និចលភាព` $F = ma$ `ច្បាប់ទី ៣ ញូតុន` `រ៉ក - ប្លង់ទេរ` 
 <br>
