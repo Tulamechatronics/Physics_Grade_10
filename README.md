@@ -2,8 +2,8 @@
 
 
 
-###      មេរៀនទី ០១ ទ្រឹស្តីស៊ីនេទិចនៃឧស្ម័ន
-**Topics Covered:** `ទំនាក់ទំនងរវាងមីក្រូស្កុបពិច និង ម៉ាក្រូស្កុបពិច` `ស្ថិតិ` `Assumptions Ideal Gas Law` `សម្ពាធក្នុងទ្រឹស្តីស៊ីនេទិចនៃឧស្ម័ន` `សមីការឧស្ម័នបរិសុទ្ធ`  `តម្លៃមធ្យមនៃថាមពលស៊ីនេទិចម៉ូលេគុលនីមួយៗ` `ថាមពលស៊ីនេទិចសរុប` `ឬសការេនៃការេល្បឿនមធ្យម`
+###      មេរៀន ច្បាប់ចលនារបស់ញូតុន
+**Topics Covered:** `និចលភាព` `F=ma` `ច្បាប់ទី ៣ ញូតុន` `រ៉ក - ប្លង់ទេរ` 
 <br>
 ##### Summary
 - [សង្ខេបខ្លឹមសារសំខាន់](https://github.com/Tulamechatronics/Grade12-Physics/blob/main/Summary%20Lesson/L1.md)
@@ -21,7 +21,11 @@
     
 - វីដេអូកែលំហាត់ (ប្រភព Youtube)
     * [កែលំហាត់ទ្រឹស្តីស៊ីនេទិចនៃឧស្ម័ន](https://youtube.com/playlist?list=PL17Z3wG4bIQepDPDO-0sg0z28lCbEYNCm)
- 
-  ##### Quick Quiz
+ <br>
+ <br>
+##### Quick Quiz
 ![alt text](https://github.com/Tulamechatronics/Physics_Grade_10/blob/main/Folder/sample-quiz-animation.gif)
+
+<br>
+<br>
   
