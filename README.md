@@ -99,15 +99,19 @@ Newton’s laws explain nearly everything we experience in daily life—whether 
     * [🎬 មេរៀន ទ្រឹស្តីស៊ីនេទិចនៃឧស្ម័ន បង្រៀនដោយលោកគ្រូ យិន អ៊ាង (MoEYS Official)](https://youtube.com/playlist?list=PL2G_O4s8LpX-srF-aHX8k2O_Dg3LqQ9jm)
     * [🎬 មេរៀន ទ្រឹស្តីស៊ីនេទិចនៃឧស្ម័ន បង្រៀនដោយលោកគ្រូហាក់ កុសល Full Playlist](https://www.youtube.com/playlist?list=PLH3117ApWampfSrIezrqrQY7Tz2exIqns) 
 - [Phet Simulation: gas-properties](https://phet.colorado.edu/sims/html/gas-properties/latest/gas-properties_en.html) ប្រើសម្រាប់ជំនួយក្នុងការពន្យល់ពី P~ T,N && P~ 1/V និង ថាមពលស៊ីនេទិចមធ្យម របស់ម៉ូលេគុល
-- មេរៀនសង្ខេប និង លំហាត់អនុវត្តន៍
-    * [📚 ឯកសាររបស់លោកគ្រូ-អ៊ាង-ពិសី](https://drive.google.com/file/d/1rbt3E4j3O_fwVe70KBoZBbDkaq4VXldg/view?usp=sharing) 
-    * [📚 ឯកសាររបស់លោកគ្រូ-ហូ សូរិយា](https://drive.google.com/file/d/1KtmRV11_VzI3BhmeV8XeF1viH0EcI5tK/view?usp=sharing)
+- មេរៀនសង្ខេប - Mindmap - លំហាត់អនុវត្តន៍
+    * [Mind-Map]()
+    * [📚 T.Physics Summary]() 
+    * [📚 Lesson Practice Exercises]()
+      
     
 - វីដេអូកែលំហាត់ (ប្រភព Youtube)
-    * [កែលំហាត់ទ្រឹស្តីស៊ីនេទិចនៃឧស្ម័ន](https://youtube.com/playlist?list=PL17Z3wG4bIQepDPDO-0sg0z28lCbEYNCm)
+    * [Ex-1]()
+    * [Ex-2]()
+    * [Ex-3]()
+    * [Ex-4]()
+    * [Ex-5]()
  <br>
- <br>
-
  
 ### V. Quiz
 
