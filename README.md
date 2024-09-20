@@ -46,7 +46,18 @@
 
  
 ##### Quick Quiz
+
+<details>
+  <br/>
+
+<!--START_SECTION:activity-->
+
+
 ![alt text](https://github.com/Tulamechatronics/Physics_Grade_10/blob/main/Folder/sample-quiz-animation.gif)
+  
+<!--END_SECTION:activity-->
+</details>
+
 
 <br>
 <br>
