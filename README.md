@@ -84,7 +84,7 @@ Newton’s laws explain nearly everything we experience in daily life—whether 
 <!--END_SECTION:activity-->
 </details> 
 <details>
-  <summary> 3.2 Class-Activiteis :</summary>
+  <summary> 3.2 Class-Activities :</summary>
   <br/>
 
 <!--START_SECTION:activity-->
@@ -126,9 +126,9 @@ Newton’s laws explain nearly everything we experience in daily life—whether 
 
 <!--START_SECTION:activity-->
 
-    * [Mind-Map]()
-    * [📚 T.Physics Summary]() 
-    * [📚 Lesson Practice Exercises]()
+  - [Mind-Map]()
+  - [📚 T.Physics Summary]() 
+  - [📚 Lesson Practice Exercises]()
 
 <!--END_SECTION:activity-->
 </details> 
@@ -137,11 +137,12 @@ Newton’s laws explain nearly everything we experience in daily life—whether 
   <br/>
 
 <!--START_SECTION:activity-->
-    * [Ex-1]()
-    * [Ex-2]()
-    * [Ex-3]()
-    * [Ex-4]()
-    * [Ex-5]()
+
+  - [Ex-1]()
+  - [Ex-2]()
+  - [Ex-3]()
+  - [Ex-4]()
+  - [Ex-5]()
   
 <!--END_SECTION:activity-->
 </details> 
