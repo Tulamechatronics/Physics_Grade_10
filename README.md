@@ -5,6 +5,26 @@
 ###      មេរៀន ច្បាប់ចលនារបស់ញូតុន
 **Topics Covered:** `និចលភាព` $F = ma$ `ច្បាប់ទី ៣ ញូតុន` `រ៉ក - ប្លង់ទេរ` 
 <br>
+
+#### Learning Objectives: 
+
+<details>
+  <summary> Courses detail :</summary>
+  <br/>
+
+<!--START_SECTION:activity-->
+
+- Understand Newton's first law of motion and its implications
+- Explain Newton's second law of motion and apply it to calculate force, mass, and acceleration
+- Comprehend Newton's third law of motion and analyze action-reaction pairs
+- Apply Newton's laws to real-world scenarios and practical applications
+- Develop problem-solving skills using Newton's laws of motion
+
+  
+<!--END_SECTION:activity-->
+</details> 
+
+
 ##### Summary
 - [សង្ខេបខ្លឹមសារសំខាន់](https://github.com/Tulamechatronics/Grade12-Physics/blob/main/Summary%20Lesson/L1.md)
 
