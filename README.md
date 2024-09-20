@@ -3,7 +3,7 @@
 `ស្ថិតិអ្នកចូលមើល(Total Visitors)`
 <br>
 
-![](https://komarev.com/ghpvc/?username=Physics_Grade_10&style=flat&color=blueviolet)
+![](https://komarev.com/ghpvc/?username=Physics-Grade-10&style=flat&color=blueviolet)
 
 ---
 ## មេរៀន ច្បាប់ចលនារបស់ញូតុន
