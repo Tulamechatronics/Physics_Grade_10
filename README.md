@@ -59,7 +59,6 @@ Newton’s laws explain nearly everything we experience in daily life—whether 
 
 
 ### 3. STEM-Protocols / Class-Activities / Simulation: 
-#### Electrical
 
 <details>
   <summary> 3.1 STEM-Protocols :</summary>
@@ -71,7 +70,6 @@ Newton’s laws explain nearly everything we experience in daily life—whether 
   - [Lab-3]()  
 <!--END_SECTION:activity-->
 </details> 
-<br>
 <details>
   <summary> 3.2 Class-Activiteis :</summary>
   <br/>
@@ -80,6 +78,16 @@ Newton’s laws explain nearly everything we experience in daily life—whether 
   - [inertia]()
   - [Newtow Second law]()
   - [Water Rocket]()  
+<!--END_SECTION:activity-->
+</details> 
+<details>
+  <summary> 3.3 Simulation :</summary>
+  <br/>
+
+<!--START_SECTION:activity-->
+  - [PhET-Forces and Motion](https://phet.colorado.edu/en/simulations/forces-and-motion-basics)
+  - [Ramp Pulley](https://ophysics.com/f3.html)
+  
 <!--END_SECTION:activity-->
 </details> 
 
