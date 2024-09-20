@@ -99,8 +99,10 @@ Newton’s laws explain nearly everything we experience in daily life—whether 
 
 <!--START_SECTION:activity-->
 
-  - [🎬 NGS-Part-1](https://www.youtube.com/watch?v=RUvVr5pjFdQ&list=PLJaM0qi-Pbjv6Ya3RKZpb2W-z1JvCTWmO&index=4) ; [🎬 NGS - End](https://www.youtube.com/watch?v=S3gyrsKXzQ4&list=PLJaM0qi-Pbjv6Ya3RKZpb2W-z1JvCTWmO&index=5)
-  - [🎬 Dave Explain - 1](https://www.youtube.com/watch?v=1XSyyjcEHo0) ;  [🎬 Dave Explain - 2](https://www.youtube.com/watch?v=xzA6IBWUEDE) ;  [🎬 Dave Explain - 3](https://www.youtube.com/watch?v=y61_VPKH2B4) 
+  - ពន្យល់ជាភាសាខ្មែរ [🎬 NGS-Part-1](https://www.youtube.com/watch?v=RUvVr5pjFdQ&list=PLJaM0qi-Pbjv6Ya3RKZpb2W-z1JvCTWmO&index=4) ; [🎬 NGS - End](https://www.youtube.com/watch?v=S3gyrsKXzQ4&list=PLJaM0qi-Pbjv6Ya3RKZpb2W-z1JvCTWmO&index=5)
+  - [🎬 Dave Explain - 1](https://www.youtube.com/watch?v=1XSyyjcEHo0) ;  [🎬 Dave Explain - 2](https://www.youtube.com/watch?v=xzA6IBWUEDE) ;  [🎬 Dave Explain - 3](https://www.youtube.com/watch?v=y61_VPKH2B4)
+  - [Crash Course-Newton'sLaws of Motion](https://www.youtube.com/watch?v=kKKM8Y-u7ds)
+  - [Openstax-Newton's Law of Motion](https://openstax.org/books/physics/pages/4-introduction)
 
 <!--END_SECTION:activity-->
 </details> 
