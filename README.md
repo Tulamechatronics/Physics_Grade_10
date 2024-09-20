@@ -9,7 +9,7 @@
 #### Learning Objectives: 
 
 <details>
-  <summary> Courses detail :</summary>
+  <summary> Brief LOs. :</summary>
   <br/>
 
 <!--START_SECTION:activity-->
