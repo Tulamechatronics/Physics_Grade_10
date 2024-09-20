@@ -42,7 +42,7 @@ Newton’s Laws of Motion revolutionized the way we understand the physical worl
 ######  First Law (Law of Inertia):  
 Imagine pushing a shopping cart—without a push, it stays still. Newton’s first law explains that objects resist changes to their state of motion. This law reveals why things don't just move on their own: an object at rest stays at rest, and an object in motion stays in motion unless acted upon by an outside force. It's like a hidden rule that governs all movement around us, from a parked car to a drifting skateboard.
 
-######  Second Law ($ F=ma $): 
+######  Second Law ($F = ma$): 
 Ever wonder why heavier objects are harder to push? Newton’s second law explains how force and mass interact. The acceleration of an object depends on how much force you apply and the object’s mass. This law is why race cars are light—they can speed up quickly because they don't have much mass to push against the force.
 
 ######  Third Law (Action-Reaction): 
