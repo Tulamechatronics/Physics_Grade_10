@@ -31,7 +31,7 @@
 
 <!--START_SECTION:activity-->
 
-###### Big Ideas of Newton’s Laws of Motion:  
+#### 2.1 Big Ideas of Newton’s Laws of Motion:  
 Newton’s Laws of Motion revolutionized the way we understand the physical world, providing a framework for almost everything in mechanics—from the motion of planets to why a soccer ball rolls across the field. These laws unlock the secrets behind movement, forces, and interactions, forming the foundation of physics. 
 
 ###### 1. First Law (Law of Inertia):  
@@ -43,12 +43,12 @@ Ever wonder why heavier objects are harder to push? Newton’s second law explai
 ###### 3. Third Law (Action-Reaction): 
 If you've ever jumped off a boat and watched it drift away, you’ve experienced Newton’s third law: For every action, there’s an equal and opposite reaction. This law governs everything from rocket launches to how fish swim. It's the hidden dance of forces that balance our world.
 
-###### The Story Behind Newton’s Discovery:  
+#### 2.2 The Story Behind Newton’s Discovery:  
 Newton’s genius didn’t arrive in a flash—it was built upon centuries of curiosity. The ancient Greeks believed that heavy objects fall faster than light ones, a view that would remain unchallenged for centuries. In the late 16th century, Galileo Galilei turned this idea upside down by showing that all objects fall at the same rate in a vacuum, regardless of weight. Galileo’s experiments laid the groundwork, but it was Isaac Newton who connected the dots.
 
 In the mid-1600s, Newton famously wondered about gravity after watching an apple fall from a tree (though whether that exact moment sparked the revelation is debated!). This led him to think about the forces that govern all motion, from falling apples to the orbits of planets. Newton built upon Galileo’s discoveries, combining them with his own insights into force and acceleration to create the laws of motion. These laws became the bedrock of classical physics, transforming our understanding of the universe.
 
-###### Why It Matters:  
+#### 2.3 Why It Matters:  
 Newton’s laws explain nearly everything we experience in daily life—whether it's the way we walk, ride a bike, or even launch a spacecraft. They make the world less mysterious and more amazing. Understanding these laws gives us the power to explore the universe, build incredible machines, and improve our lives. These ideas shaped the modern world, and appreciating them is like holding the key to understanding how everything around you works.
 
 
@@ -93,24 +93,40 @@ Newton’s laws explain nearly everything we experience in daily life—whether 
 
 
 ### IV. ឯកសារ
-- [Macroscopic & Microscopic point of view](https://www.youtube.com/watch?v=eeu6OVNtjkc)
-- [សម្រាយបញ្ជាក់ PV = nRT](https://www.youtube.com/watch?v=voFVaeDZrjc&t=2s)
-- វីដេអូ ពន្យល់ ខ្លឹមសារមេរៀន ៖
+
+#### 4.1 វីដេអូ ពន្យល់ ខ្លឹមសារមេរៀន ៖
     * [🎬 មេរៀន ទ្រឹស្តីស៊ីនេទិចនៃឧស្ម័ន បង្រៀនដោយលោកគ្រូ យិន អ៊ាង (MoEYS Official)](https://youtube.com/playlist?list=PL2G_O4s8LpX-srF-aHX8k2O_Dg3LqQ9jm)
     * [🎬 មេរៀន ទ្រឹស្តីស៊ីនេទិចនៃឧស្ម័ន បង្រៀនដោយលោកគ្រូហាក់ កុសល Full Playlist](https://www.youtube.com/playlist?list=PLH3117ApWampfSrIezrqrQY7Tz2exIqns) 
-- [Phet Simulation: gas-properties](https://phet.colorado.edu/sims/html/gas-properties/latest/gas-properties_en.html) ប្រើសម្រាប់ជំនួយក្នុងការពន្យល់ពី P~ T,N && P~ 1/V និង ថាមពលស៊ីនេទិចមធ្យម របស់ម៉ូលេគុល
-- មេរៀនសង្ខេប - Mindmap - លំហាត់អនុវត្តន៍
+
+<details>
+  <summary>  :</summary> មេរៀនសង្ខេប - Mindmap - លំហាត់អនុវត្តន៍
+  <br/>
+
+<!--START_SECTION:activity-->
+
     * [Mind-Map]()
     * [📚 T.Physics Summary]() 
     * [📚 Lesson Practice Exercises]()
-      
-    
-- វីដេអូកែលំហាត់ (ប្រភព Youtube)
+
+<!--END_SECTION:activity-->
+</details> 
+<details>
+  <summary>  :</summary> 4.3 វីដេអូកែលំហាត់ (ប្រភព Youtube)
+  <br/>
+
+<!--START_SECTION:activity-->
     * [Ex-1]()
     * [Ex-2]()
     * [Ex-3]()
     * [Ex-4]()
     * [Ex-5]()
+  
+<!--END_SECTION:activity-->
+</details> 
+      
+
+
+ 
  <br>
  
 ### V. Quiz
