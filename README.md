@@ -26,7 +26,7 @@
 
 #### 2. Big Idea / History / Applications: 
 <details>
-  <summary> Brief LOs. :</summary>
+  <summary> Details:</summary>
   <br/>
 
 <!--START_SECTION:activity-->
