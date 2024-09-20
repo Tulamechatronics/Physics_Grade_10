@@ -6,7 +6,7 @@
 **Topics Covered:** `និចលភាព` $F = ma$ `ច្បាប់ទី ៣ ញូតុន` `រ៉ក - ប្លង់ទេរ` 
 <br>
 
-### 1. Learning Objectives: 
+### I. Learning Objectives: 
 
 <details>
   <summary> Brief LOs:</summary>
@@ -24,7 +24,7 @@
 <!--END_SECTION:activity-->
 </details> 
 
-### 2. Big Idea / History / Applications: 
+### II. Big Idea / History / Applications: 
 <details>
   <summary> Details:</summary>
   <br/>
@@ -58,7 +58,7 @@ Newton’s laws explain nearly everything we experience in daily life—whether 
 </details> 
 
 
-### 3. STEM-Protocols / Class-Activities / Simulation: 
+### III. STEM-Protocols / Class-Activities / Simulation: 
 
 <details>
   <summary> 3.1 STEM-Protocols :</summary>
@@ -92,10 +92,7 @@ Newton’s laws explain nearly everything we experience in daily life—whether 
 </details> 
 
 
-##### Summary
-- [សង្ខេបខ្លឹមសារសំខាន់](https://github.com/Tulamechatronics/Grade12-Physics/blob/main/Summary%20Lesson/L1.md)
-
-##### ឯកសារ
+### IV. ឯកសារ
 - [Macroscopic & Microscopic point of view](https://www.youtube.com/watch?v=eeu6OVNtjkc)
 - [សម្រាយបញ្ជាក់ PV = nRT](https://www.youtube.com/watch?v=voFVaeDZrjc&t=2s)
 - វីដេអូ ពន្យល់ ខ្លឹមសារមេរៀន ៖
@@ -112,7 +109,7 @@ Newton’s laws explain nearly everything we experience in daily life—whether 
  <br>
 
  
-##### Quiz
+### V. Quiz
 
 <details>
   <br/>
