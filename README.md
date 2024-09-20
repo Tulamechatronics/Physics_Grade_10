@@ -45,11 +45,11 @@
  <br>
 
  
-##### Quick Quiz
+##### Quiz
 
 <details>
   <br/>
-
+<summary>  Quick Quiz :</summary>
 <!--START_SECTION:activity-->
 
 
