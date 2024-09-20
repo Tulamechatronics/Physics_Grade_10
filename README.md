@@ -21,3 +21,7 @@
     
 - វីដេអូកែលំហាត់ (ប្រភព Youtube)
     * [កែលំហាត់ទ្រឹស្តីស៊ីនេទិចនៃឧស្ម័ន](https://youtube.com/playlist?list=PL17Z3wG4bIQepDPDO-0sg0z28lCbEYNCm)
+ 
+  ##### Quick Quiz
+![alt text](https://github.com/Tulamechatronics/Physics_Grade_10/blob/main/Folder/sample-quiz-animation.gif)
+  
