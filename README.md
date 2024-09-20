@@ -3,7 +3,7 @@
 
 
 ###      មេរៀន ច្បាប់ចលនារបស់ញូតុន
-**Topics Covered:** `និចលភាព` `$F=ma$` `ច្បាប់ទី ៣ ញូតុន` `រ៉ក - ប្លង់ទេរ` 
+**Topics Covered:** `និចលភាព` `$ F=ma $` `ច្បាប់ទី ៣ ញូតុន` `រ៉ក - ប្លង់ទេរ` 
 <br>
 ##### Summary
 - [សង្ខេបខ្លឹមសារសំខាន់](https://github.com/Tulamechatronics/Grade12-Physics/blob/main/Summary%20Lesson/L1.md)
