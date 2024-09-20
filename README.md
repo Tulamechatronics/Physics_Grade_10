@@ -150,7 +150,7 @@ Newton’s laws explain nearly everything we experience in daily life—whether 
 
 <details>
   <br/>
-<summary>  Quick Quiz :</summary>
+<summary>  1. Quick Quiz :</summary>
 <!--START_SECTION:activity-->
 
 
@@ -158,7 +158,15 @@ Newton’s laws explain nearly everything we experience in daily life—whether 
   
 <!--END_SECTION:activity-->
 </details>
-
+<details>
+  <br/>
+<summary>  2. Google Form Quiz:</summary>
+<!--START_SECTION:activity-->
+ 
+  -[Quiz Newton Law of Motion]()  
+  
+<!--END_SECTION:activity-->
+</details>
 
 <br>
 <br>
