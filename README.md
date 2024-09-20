@@ -2,14 +2,14 @@
 
 
 
-###      មេរៀន ច្បាប់ចលនារបស់ញូតុន
+## មេរៀន ច្បាប់ចលនារបស់ញូតុន
 **Topics Covered:** `និចលភាព` $F = ma$ `ច្បាប់ទី ៣ ញូតុន` `រ៉ក - ប្លង់ទេរ` 
 <br>
 
-#### 1. Learning Objectives: 
+### 1. Learning Objectives: 
 
 <details>
-  <summary> Brief LOs. :</summary>
+  <summary> Brief LOs:</summary>
   <br/>
 
 <!--START_SECTION:activity-->
@@ -24,7 +24,7 @@
 <!--END_SECTION:activity-->
 </details> 
 
-#### 2. Big Idea / History / Applications: 
+### 2. Big Idea / History / Applications: 
 <details>
   <summary> Details:</summary>
   <br/>
@@ -56,6 +56,33 @@ Newton’s laws explain nearly everything we experience in daily life—whether 
   
 <!--END_SECTION:activity-->
 </details> 
+
+
+### 3. STEM-Protocols / Class-Activities / Simulation: 
+#### Electrical
+
+<details>
+  <summary> 3.1 STEM-Protocols :</summary>
+  <br/>
+
+<!--START_SECTION:activity-->
+  - [Lab-1]()
+  - [Lab-2]()
+  - [Lab-3]()  
+<!--END_SECTION:activity-->
+</details> 
+<br>
+<details>
+  <summary> 3.2 Class-Activiteis :</summary>
+  <br/>
+
+<!--START_SECTION:activity-->
+  - [inertia]()
+  - [Newtow Second law]()
+  - [Water Rocket]()  
+<!--END_SECTION:activity-->
+</details> 
+
 
 ##### Summary
 - [សង្ខេបខ្លឹមសារសំខាន់](https://github.com/Tulamechatronics/Grade12-Physics/blob/main/Summary%20Lesson/L1.md)
