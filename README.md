@@ -133,11 +133,6 @@ Newton’s laws explain nearly everything we experience in daily life—whether 
 <!--END_SECTION:activity-->
 </details> 
       
-
-
- 
- <br>
- 
 ### V. Quiz
 
 <details>
