@@ -6,7 +6,7 @@
 **Topics Covered:** `និចលភាព` $F = ma$ `ច្បាប់ទី ៣ ញូតុន` `រ៉ក - ប្លង់ទេរ` 
 <br>
 
-#### Learning Objectives: 
+#### 1. Learning Objectives: 
 
 <details>
   <summary> Brief LOs. :</summary>
@@ -24,6 +24,38 @@
 <!--END_SECTION:activity-->
 </details> 
 
+#### 2. Big Idea / History / Applications: 
+<details>
+  <summary> Brief LOs. :</summary>
+  <br/>
+
+<!--START_SECTION:activity-->
+
+###### Big Ideas of Newton’s Laws of Motion:  
+Newton’s Laws of Motion revolutionized the way we understand the physical world, providing a framework for almost everything in mechanics—from the motion of planets to why a soccer ball rolls across the field. These laws unlock the secrets behind movement, forces, and interactions, forming the foundation of physics. 
+
+###### 1. First Law (Law of Inertia):  
+Imagine pushing a shopping cart—without a push, it stays still. Newton’s first law explains that objects resist changes to their state of motion. This law reveals why things don't just move on their own: an object at rest stays at rest, and an object in motion stays in motion unless acted upon by an outside force. It's like a hidden rule that governs all movement around us, from a parked car to a drifting skateboard.
+
+###### 2. Second Law (F=ma): 
+Ever wonder why heavier objects are harder to push? Newton’s second law explains how force and mass interact. The acceleration of an object depends on how much force you apply and the object’s mass. This law is why race cars are light—they can speed up quickly because they don't have much mass to push against the force.
+
+###### 3. Third Law (Action-Reaction): 
+If you've ever jumped off a boat and watched it drift away, you’ve experienced Newton’s third law: For every action, there’s an equal and opposite reaction. This law governs everything from rocket launches to how fish swim. It's the hidden dance of forces that balance our world.
+
+###### The Story Behind Newton’s Discovery:  
+Newton’s genius didn’t arrive in a flash—it was built upon centuries of curiosity. The ancient Greeks believed that heavy objects fall faster than light ones, a view that would remain unchallenged for centuries. In the late 16th century, Galileo Galilei turned this idea upside down by showing that all objects fall at the same rate in a vacuum, regardless of weight. Galileo’s experiments laid the groundwork, but it was Isaac Newton who connected the dots.
+
+In the mid-1600s, Newton famously wondered about gravity after watching an apple fall from a tree (though whether that exact moment sparked the revelation is debated!). This led him to think about the forces that govern all motion, from falling apples to the orbits of planets. Newton built upon Galileo’s discoveries, combining them with his own insights into force and acceleration to create the laws of motion. These laws became the bedrock of classical physics, transforming our understanding of the universe.
+
+###### Why It Matters:  
+Newton’s laws explain nearly everything we experience in daily life—whether it's the way we walk, ride a bike, or even launch a spacecraft. They make the world less mysterious and more amazing. Understanding these laws gives us the power to explore the universe, build incredible machines, and improve our lives. These ideas shaped the modern world, and appreciating them is like holding the key to understanding how everything around you works.
+
+
+
+  
+<!--END_SECTION:activity-->
+</details> 
 
 ##### Summary
 - [សង្ខេបខ្លឹមសារសំខាន់](https://github.com/Tulamechatronics/Grade12-Physics/blob/main/Summary%20Lesson/L1.md)
