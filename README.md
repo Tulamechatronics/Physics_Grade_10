@@ -94,7 +94,7 @@ Newton’s laws explain nearly everything we experience in daily life—whether 
 
 ### IV. ឯកសារ
 <details>
-  <summary>  :</summary> 4.1 វីដេអូ/ឯកសារ ពន្យល់ ខ្លឹមសារមេរៀន:</summary>
+  <summary>​​​​​​​ 4.1 វីដេអូ/ឯកសារ ពន្យល់ ខ្លឹមសារមេរៀន:</summary>
   <br/>
 
 <!--START_SECTION:activity-->
@@ -106,7 +106,7 @@ Newton’s laws explain nearly everything we experience in daily life—whether 
 </details> 
 
 <details>
-  <summary>  :</summary> មេរៀនសង្ខេប - Mindmap - លំហាត់អនុវត្តន៍:</summary>
+  <summary>មេរៀនសង្ខេប - Mindmap - លំហាត់អនុវត្តន៍:</summary>
   <br/>
 
 <!--START_SECTION:activity-->
@@ -118,7 +118,7 @@ Newton’s laws explain nearly everything we experience in daily life—whether 
 <!--END_SECTION:activity-->
 </details> 
 <details>
-  <summary>  :</summary> 4.3 វីដេអូកែលំហាត់ (ប្រភព Youtube): </summary>
+  <summary> 4.3 វីដេអូកែលំហាត់ (ប្រភព Youtube): </summary>
   <br/>
 
 <!--START_SECTION:activity-->
