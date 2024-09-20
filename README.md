@@ -93,13 +93,20 @@ Newton’s laws explain nearly everything we experience in daily life—whether 
 
 
 ### IV. ឯកសារ
+<details>
+  <summary>  :</summary> 4.1 វីដេអូ/ឯកសារ ពន្យល់ ខ្លឹមសារមេរៀន:</summary>
+  <br/>
 
-#### 4.1 វីដេអូ ពន្យល់ ខ្លឹមសារមេរៀន ៖
+<!--START_SECTION:activity-->
+
     * [🎬 មេរៀន ទ្រឹស្តីស៊ីនេទិចនៃឧស្ម័ន បង្រៀនដោយលោកគ្រូ យិន អ៊ាង (MoEYS Official)](https://youtube.com/playlist?list=PL2G_O4s8LpX-srF-aHX8k2O_Dg3LqQ9jm)
     * [🎬 មេរៀន ទ្រឹស្តីស៊ីនេទិចនៃឧស្ម័ន បង្រៀនដោយលោកគ្រូហាក់ កុសល Full Playlist](https://www.youtube.com/playlist?list=PLH3117ApWampfSrIezrqrQY7Tz2exIqns) 
 
+<!--END_SECTION:activity-->
+</details> 
+
 <details>
-  <summary>  :</summary> មេរៀនសង្ខេប - Mindmap - លំហាត់អនុវត្តន៍
+  <summary>  :</summary> មេរៀនសង្ខេប - Mindmap - លំហាត់អនុវត្តន៍:</summary>
   <br/>
 
 <!--START_SECTION:activity-->
@@ -111,7 +118,7 @@ Newton’s laws explain nearly everything we experience in daily life—whether 
 <!--END_SECTION:activity-->
 </details> 
 <details>
-  <summary>  :</summary> 4.3 វីដេអូកែលំហាត់ (ប្រភព Youtube)
+  <summary>  :</summary> 4.3 វីដេអូកែលំហាត់ (ប្រភព Youtube): </summary>
   <br/>
 
 <!--START_SECTION:activity-->
